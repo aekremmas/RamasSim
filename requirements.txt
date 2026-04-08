@@ -1,5 +1,5 @@
-streamlit
-numpy
-matplotlib
-arabic-reshaper
-python-bidi
+-streamlit
+-numpy
+-matplotlib
+-arabic-reshaper
+-python-bidi

@@ -1,5 +1,4 @@
 streamlit
 numpy
 matplotlib
-arabic-reshaper
 python-bidi
